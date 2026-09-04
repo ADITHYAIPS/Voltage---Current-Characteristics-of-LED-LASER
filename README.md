@@ -57,14 +57,22 @@ Key points:
 
 ---
 
-## TABULATION LED Characteristics (850 nm)
+## TABULATION
+<img width="1003" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f0eb842-b26b-4961-a073-3a2f19387e2e" />
 
-<img width="1242" height="1445" alt="image" src="https://github.com/user-attachments/assets/5d60c64c-565d-4a7f-9193-afc6fff044e6" />
 
+
+
+
+
+
+---
 
 ## MODEL GRAPH
-<img width="917" height="1430" alt="image" src="https://github.com/user-attachments/assets/388a2a02-c77d-4a48-b474-e15091d46262" />
-<img width="1303" height="1600" alt="image" src="https://github.com/user-attachments/assets/d4ae5135-7d6d-4c8c-ad4d-05ac3c847b00" />
+<img width="1220" height="1600" alt="image" src="https://github.com/user-attachments/assets/b378fcff-989a-422d-b50a-f2838b71b7ac" />
+<img width="1277" height="1600" alt="image" src="https://github.com/user-attachments/assets/195b8ed5-7f9c-4346-a44c-e52e22b471f5" />
+
+
 
 
 ---
